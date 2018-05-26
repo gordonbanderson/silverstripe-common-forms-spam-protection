@@ -1,0 +1,32 @@
+{
+  "name": "suilven/silverstripe-common-forms-spam-protection",
+  "type": "silverstripe-vendormodule",
+  "description": "Provide a one stop shop for protecting common SilverStripe forms with spam protection.",
+  "homepage": "https://github.com/suilven/silverstripe-common-form-spam-protection",
+  "keywords": ["SilverStripe","spam","spam","protection"],
+  "license": "BSD-3-Clause",
+  "authors": [
+    {
+      "name": "Gordon Anderson",
+      "role": "Developer",
+      "email": "gordon.b.anderson@gmail.com",
+      "homepage": "https://github.com/gordon.b.anderson"
+    }
+  ],
+  "require": {
+    "php": ">=5.6.0",
+    "silverstripe/framework": "^4@dev"
+  },
+  "autoload": {
+    "psr-4": {
+      "Suilven\\CommonFormsSpamProtection\\": "src/"
+    }
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "1.0.x-dev"
+    }
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}

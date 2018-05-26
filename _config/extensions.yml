@@ -1,0 +1,3 @@
+Symbiote\MemberProfiles\Model\MemberProfilePageController:
+  extensions:
+    - Suilven\CommonFormsSpamProtection\SpamProtectionExtension
