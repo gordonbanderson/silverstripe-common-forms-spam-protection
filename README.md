@@ -1,4 +1,4 @@
-# Spam Enabler for Common SilverStripe Modules
+# Spam Protection Enabler for Common SilverStripe Modules
 
 This currently enables spam protection for the following 2 modules as a one shot solution.
 
