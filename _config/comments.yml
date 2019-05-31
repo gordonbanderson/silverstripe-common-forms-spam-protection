@@ -3,4 +3,4 @@ name: common-forms-spam-protection-comments
 ---
 SilverStripe\Comments\Controllers\CommentingController:
   extensions:
-    - Suilven\CommonFormsSpamProtection\SpamProtectionExtension
+    - Suilven\CommonFormsSpamProtection\CommentsSpamProtectionExtension

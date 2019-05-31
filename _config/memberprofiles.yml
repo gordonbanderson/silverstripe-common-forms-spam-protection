@@ -3,4 +3,4 @@ name: common-forms-spam-protection-member-profiles
 ---
 Symbiote\MemberProfiles\Pages\MemberProfilePageController:
   extensions:
-    - Suilven\CommonFormsSpamProtection\SpamProtectionExtension
+    - Suilven\CommonFormsSpamProtection\MemberProfilesSpamProtectionExtension
