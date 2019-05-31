@@ -1,5 +1,5 @@
 ---
-name: common-forms-spam-protection
+name: common-forms-spam-protection-member-profiles
 ---
 Symbiote\MemberProfiles\Pages\MemberProfilePageController:
   extensions:
