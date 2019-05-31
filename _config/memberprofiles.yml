@@ -1,0 +1,6 @@
+---
+name: common-forms-spam-protection
+---
+Symbiote\MemberProfiles\Pages\MemberProfilePageController:
+  extensions:
+    - Suilven\CommonFormsSpamProtection\SpamProtectionExtension
